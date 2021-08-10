@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Suyash30030
-- 👀 I’m interested in Artificial & machine learning
-- 🌱 I’m currently learning artificial & learning
+- 👀 I’m interested in Artificial intelligence & machine learning
+- 🌱 I’m currently learning artificial intelligence & machine learning
 - 💞️ I’m looking to collaborate on Starting small with a voice assistant 
 - 📫 How to reach me *
 
