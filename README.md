@@ -5,7 +5,7 @@ I m currently working on a Blog website<br>I m currently learning MongoDb & Dsa
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__suyashparganiha__/?hl=en)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/suyash-parganiha-bab798253/)
-[![My Website](https://img.shields.io/badge/My%20Website-%23121011.svg?style=flat&logoColor=white&link=https://suyash--portfolio.vercel.app/)](https://suyash--portfolio.vercel.app/)
+[![My Website](https://img.shields.io/badge/My%20Website-%23121011.svg?style=Website&logoColor=white&link=https://suyash--portfolio.vercel.app/)](https://suyash--portfolio.vercel.app/)
 
 
 # 💻 Tech Stack:
