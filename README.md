@@ -1,5 +1,5 @@
 # 💫 About Me:
-I m currently working on a Blog website<br>I m currently learning MongoDb & Dsa <br>🌐My wesbite [![](https://suyash--portfolio.vercel.app/)
+I m currently working on a Blog website<br>I m currently learning MongoDb & Dsa 
 
 
 ## 🌐 Socials:
