@@ -1,5 +1,6 @@
 # 💫 About Me:
-I m currently working on a Blog website<br>I m currently learning MongoDb & Dsa<br>I strive to be a good Frontend developer
+A Final Year College Student.
+
 
 
 ## 🌐 Socials:
